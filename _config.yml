@@ -1,0 +1,276 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Jenna Sprattler
+title: Cloud Network Engineer
+# email: 
+# web: https://github.com/jksprattler
+# Blog: .github.io/jennas-runbooks
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username:  jksprattler
+linkedin_username: jennasprattler
+#youtube_username: UC00Co9dzh7sUjNYVjidG95w
+
+# Additional icon links
+additional_links:
+ - title: Youtube link
+   icon: fab fa-youtube
+   url: https://www.youtube.com/channel/UC00Co9dzh7sUjNYVjidG95w  
+ - title: jennas-runbooks
+   icon: fas fa-globe
+   url: https://jksprattler.github.io/jennas-runbooks/
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  Solution-oriented, results-driven Technologist with 6 years of enterprise network engineering experience and 4.5 years collaborating with multi-national teams and colleagues located in Canada, India, UK, Brazil, and Australia. 
+
+  Over the past 2 years, I've been working primarily with Enterprise Class Multi-Cloud vendor products including AWS, Azure, GCP (Google), and OCI (Oracle) providing design, development, and delivery of tasks with a focus on Hybrid Cloud network solutions, DevOps and automation.
+
+content:
+  - title: Cloud & DevOps Skills
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        sub_title: ☁️ + ♾️
+        description: | # this will include new lines to allow paragraphs  
+            - 2 years experience working in Agile team environments
+            - 2 years experience in the design, deployment and management of enterprise class mult-vendor public cloud connectivity solutions (AWS, Azure, GCP, OCI)
+            - Solid understanding of the AWS, Azure, GCP and OCI hub-and-spoke networking model
+            - 2 years experience with IP Address Management (IPAM) of cloud address space (Infoblox)
+            - 2+ years experience automating repetitive tasks by scripting out solutions using bash, python
+            - 1+ years experience developing and implementing Infrastructure-as-Code and Configuration Management tooling (AWS CloudFormation, Azure ARM, Google Cloud Deployment Manager)
+            - 1+ years experience utilizing CI/CD technologies (Azure DevOps, Git)
+            - 1+ years experience providing training, mentoring and demos of cloud networking and DevOps concepts
+            - Proficient in working with ADO Git and Github
+            - Strong documentation skills and experience generating technical documents, runbooks, diagrams, solutions specifications, guidelines, processes, and procedures.
+              
+              👇 Please see Projects & Highlights section below for details 👇
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Thomson Reuters
+        link: thomsonreuters.com
+        sub_title: Lead Cloud Network Engineer
+        caption: April 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+            - Hybrid Cloud Network Design & Engineering Technical Lead for the AWS, Azure, GCP and OCI footprint
+            - Leading a daily standup reviewing cloud related incidents, requests and implementations
+            - Presenting weekly/monthly demos to the network teams on new SOP’s related to the DevOps and automation of cloud network design and implementations
+            - Leading the design and implementation for the automated ADO CI/CD deployment of a stateful next generation firewall (NGFW) solution to increase the security footprint across all our landing zones
+            - Configuring monitors and alerts using cloud native tools and Datadog for bandwidth utilization, BGP, and general circuit health related issues
+            - Developing and/or customizing cloud templates for network deployments (AWS CloudFormation, Azure ARM, Google Cloud Deployment Manager) using ADO Release Pipelines         
+            - Writing and updating SOP's, runbooks and design documentation
+      - layout: left
+#        title: Thomson Reuters
+        link: thomsonreuters.com
+        sub_title: Senior Network & Security Engineer
+        caption: February 2017 – March 2021
+        description: | # this will include new lines to allow paragraphs
+            - Network Incident & Implementation Engineer for the Global Enterprise LAN Network & Security Group
+            - Team Cloud Networking SME developing highly technical documentation, diagrams, configuration management templates and bash/python automation scripts
+            - Team F5 BIG-IP SME delivering skillful troubleshooting of incidents; thorough planning and documentation for implementations; and mentoring colleagues
+            - Designed, implemented and supported dedicated and shared infrastructure including Hybrid Cloud (AWS, Azure, OCI, GCP), SD-WAN (Zscaler, Silverpeak), F5 Load Balancers, Checkpoint & Palo Alto Firewalls, DNS/FTP/Squid/Socks RHEL proxies, Cisco ASA/Routers/Switches (Nexus NX-OS & IOS) 
+            - Reviewed capacity plans, evaluated performance, and created standards for the F5 Estate
+            - Corresponded with customers, colleagues and vendors to ensure root cause analysis was being pursued on all incidents and next plan of action steps were defined
+            - Published and updated network support and engineering documentation
+            - Efficiently managed multiple priorities and projects with competing deadlines
+      - layout: left
+        title: Kudelski Security
+        link: kudelskisecurity.com
+        sub_title: Network Support Engineer II (F5)
+        caption: January 2015 – February 2017
+        description: | # this will include new lines to allow paragraphs
+            - Level I/II F5 BIG-IP Product line Support Engineer for various Fortune 100/500 enterprise customers in the financial, healthcare, aerospace, nuclear and retail industries
+            - Supported F5 Modules including: LTM, GTM, APM, ASM, AFM, vCMP, BIG-IQ, EM
+            - Troubleshot and reproduced highly complex network and application issues using lab resources
+            - Performed deep packet analysis using Wireshark, Fiddler, tcpdump and ssldump tools 
+            - Provided technical documentation, verbal explanation of Root Cause Analysis and solutions for impacted highly available production systems to both technical and non-technical audiences  
+            - Consulted with vendors, colleagues and customers in an expedited manner to exceed SLA's
+      - layout: left
+        title: TDS
+        link: tdsinc.com
+        sub_title: IT Systems Specialist            
+        caption: March 2014 – July 2014
+        description: | # this will include new lines to allow paragraphs
+            - Spearheaded a Microsoft Access 2010 upgrade, completing project one month prior to deadline
+            - Designed, tested and implemented PowerShell scripts for Active Directory changes
+            - Maintained hardware and software inventory using PowerShell, SCOM and SCCM reporting tools
+            - Completed Windows XP to Windows 7 upgrades and migrations
+      - layout: left
+        link: tdsinc.com
+        sub_title: IT Support Technician Intern            
+        caption: December 2013 - March 2014
+        description: | # this will include new lines to allow paragraphs
+            - IT Service Management focused help desk utilizing the ITIL framework
+            - Troubleshot and repaired computer systems, software applications, hardware and peripherals   
+      - layout: left
+        link: tdsinc.com
+        sub_title: IT Security Intern            
+        caption: March 2013 - November 2013
+        description: | # this will include new lines to allow paragraphs
+            - Led a Sarbanes–Oxley (SOX) control initiative as the team's Project Manager
+            - Contributed to Active Directory group policy security design for a Business Intelligence 4.0 upgrade
+            - Conducted Tenable Nessus Vulnerability Scans for patch management reports of critical assets                       
+
+  - title: Projects & Highlights # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: "Google Cloud Platform (GCP) - Partner Interconnect Deployment"
+        link: github.com/jksprattler/gcp-networking
+        # link_text: Project Website
+        additional_links:
+          - title:  jksprattler/gcp-networking
+            icon: fab fa-github
+            url: github.com/jksprattler/gcp-networking
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Designed, developed and implemented the Deployment Manager (DM) Jinja2 templates to automate the implementation of multiple strategically located regional GCP Partner Interconnects including the networking infrastructure required for connectivity such as VPC's, subnets, cloud routers, etc. Developing further automation strategies within the GCP cloud networking environment including REST API calls, DM templating and gcloud CLI scripting where applicable.
+      - layout: top-middle
+        title: "Azure DevOps (ADO) - CI/CD Architecture Design"
+        #link: github.com/jksprattler/
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  jksprattler/gcp-networking
+        #    icon: fab fa-github
+        #    url: github.com/jksprattler/gcp-networking
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs 
+          Designed and developed the Azure DevOps (ADO) CI/CD architecture for network cloud deployments integrating features such as ADO Git repo, Wiki, and build/release pipelines completely from scratch. A key driver for this was automating the deployments for our global cloud firewall solution hosted in all of our landing zones (AWS, Azure, GCP, OCI).         
+      - layout: top-middle
+        title: "Talent Rotation - Cloud Engineer (Azure Landing Zone)"
+        link: github.com/jksprattler/azure-networking
+        # link_text: Project Website
+        additional_links:
+          - title:  jksprattler/azure-networking
+            icon: fab fa-github
+            url: github.com/jksprattler/azure-networking
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Participated in a 6-month Talent Rotation as an Azure Cloud Engineer applying skills such as source code management (ADO Git), running CI/CD release pipelines (ADO) to push out code changes for production environments, scripting in various languages including AZ CLI/Bash/Python and working with API tools to make subscription changes (RBAC, RG’s, subnets, etc.).     
+      - layout: top-middle
+        title: "Cloud Connectivity Migrations - AWS, Azure"
+        link: github.com/jksprattler/aws-networking
+        # link_text: Project Website
+        additional_links:
+          - title:  jksprattler/aws-networking
+            icon: fab fa-github
+            url: github.com/jksprattler/aws-networking
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Collaborated with several cross-functional teams to migrate 100+ public cloud accounts/subscriptions from prior Refinitiv owned WAN service over to the new TR owned WAN service on AWS Direct Connect (DX) and Azure ExpressRoute (ER).  
+      - layout: top-middle
+        title: "F5 BIG-IP Build & Implementation Lead (Cisco ACI Network)"
+        link: github.com/jksprattler/f5-tmsh
+        # link_text: Project Website
+        additional_links:
+          - title:  jksprattler/f5-tmsh
+            icon: fab fa-github
+            url: github.com/jksprattler/f5-tmsh
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Orchestrated the builds and implementations of several F5 BIG-IP i-series appliances hosting vCMP virtual guests across multiple strategically located Data Center colocations via Greenfield Cisco ACI deployment. Developed automation processes for the F5 builds using tmsh/bash scripts, F5 Declarative Onboarding (DO) Model API calls, and Git source control.                       
+
+  - title: Certifications
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        #sub_title: ☁️ + ♾️
+        description: | # this will include new lines to allow paragraphs 
+            - AWS Certified Solutions Architect – Associate
+            - Microsoft Certified: Azure Fundamentals (AZ-900)
+            - F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM); EXP 01/2021       
+            - F5 Certified BIG-IP Administrator (F5-CA); EXP 12/2021
+            - F5-CTS, BIG-IP DNS (GTM); EXP 12/2019
+            - F5-CTS, Application Security Manager (F5-CTS, ASM); EXP 02/2019
+            - Cisco Certified Network Associate (CCNA) – Routing & Switching; EXP 04/2018
+            - Palo Alto Networks Accredited Configuration Engineer (ACE)    
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Madison College
+        # caption: years attended
+        sub_title: "Associate of Applied Science: IT – Network Security Specialist"
+      - layout: top-middle
+        title: UW-Stevens Point
+        # caption: years attended
+        sub_title: "Bachelor of Science: Communication & Media Studies"                 
+
+  - title: Interests
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Cooking
+
+        ![salad](/images/noodle-salad.jpg)
+      - Gardening - This is my [GreenStalk](https://greenstalkgarden.com/): 
+      
+        ![greenstalk](/images/greenstalk.gif)
+      - Pugs! Meet Mr. Barry:
+
+        ![Pugs](/images/barry1.jpg)
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#
+#      Look at this cool image  
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: Resume site was made using a Jekyll theme hosted on an AWS S3 bucket deployed using Github Actions
+references_title: |
+  Resume site was made using a Jekyll theme hosted on an AWS S3 bucket deployed using Github Actions, please see <a href="https://jksprattler.github.io/jennas-runbooks/DevOps/CI-CD/">Jenna's Runbooks</a> for details
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
