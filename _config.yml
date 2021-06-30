@@ -217,7 +217,7 @@ content:
       - layout: left
         #sub_title: ☁️ + ♾️
         description: | # this will include new lines to allow paragraphs 
-            - Azure 104 in progress
+            - Azure AZ-104 - Microsoft Azure Administrator exam study in progress
             - AWS Certified Solutions Architect – Associate
             - Microsoft Certified: Azure Fundamentals (AZ-900)
             - F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM); EXP 01/2021       
@@ -264,7 +264,7 @@ content:
 footer_show_references: true
 # references_title: Resume site was made using a Jekyll theme hosted on an AWS S3 bucket deployed using Github Actions
 references_title: |
-  Resume site was made using a Jekyll theme hosted on an AWS S3 bucket deployed using Github Actions, please see <a href="https://jksprattler.github.io/jennas-runbooks/DevOps/CI-CD/">Jenna's Runbooks</a> for details
+  Resume site created using a Jekyll theme hosted on an AWS S3 bucket served on a Cloudfront distribution with automated CI/CD deployment using Github Actions, please see <a href="https://jksprattler.github.io/jennas-runbooks/DevOps/CI-CD/jekyll-s3-actions.html">Jenna's Runbooks</a> for details
 
 # Build settings
 remote_theme: sproogen/resume-theme
