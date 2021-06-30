@@ -39,7 +39,7 @@ jobs:
     - name: "Build Site"
       run: bundle exec jekyll build
       env:
-        JEKYLL_ENV: production
+        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
     - name: "Deploy to AWS S3"
       run: aws s3 sync ./_site/ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --acl public-read --delete --cache-control max-age=604800
     - name: "Create AWS Cloudfront Invalidation"
