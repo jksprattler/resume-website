@@ -217,28 +217,27 @@ content:
       - layout: left
         #sub_title: ☁️ + ♾️
         description: | # this will include new lines to allow paragraphs             
-            - [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url)
-            - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.youracclaim.com/badges/791ba496-d53c-4cb0-8873-f95d2027789c/public_url)
-            - [F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM)](https://www.certmetrics.com/f5certified/public/badge.aspx?i=2&t=c&d=2017-01-09&ci=F50000113308); EXP 01/2021       
+            - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect – Associate</a>
+            - <a href="https://www.youracclaim.com/badges/791ba496-d53c-4cb0-8873-f95d2027789c/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Fundamentals (AZ-900</a>
+            - <a href="https://www.certmetrics.com/f5certified/public/badge.aspx?i=2&t=c&d=2017-01-09&ci=F50000113308" target="_blank" rel="noopener noreferrer">F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM)</a>; EXP 01/2021       
             - F5 Certified BIG-IP Administrator (F5-CA); EXP 01/2021
             - F5-CTS, BIG-IP DNS (GTM); EXP 12/2019
             - F5-CTS, Application Security Manager (F5-CTS, ASM); EXP 02/2019
             - Cisco Certified Network Associate (CCNA) – Routing & Switching; EXP 04/2018
             - Palo Alto Networks Accredited Configuration Engineer (ACE)
-        quote: >
-            - Azure AZ-104 - Microsoft Azure Administrator exam study in progress to complete summer 2021
+            - *Azure AZ-104 - Microsoft Azure Administrator exam study in progress to complete summer 2021*
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-right
         title: Madison College
         # caption: years attended
         sub_title: "Associate of Applied Science: IT – Network Security Specialist"
-        description: |
-          "Dean's List – Perfect Honors: Spring 2014, Fall 2013, Spring 2013
-          Collaborated in a team environment on the design, planning and implementation of a secure enterprise network representing the typical services offered by a business such as   guest users, contractors and personal devices (BYOD)."
-      - layout: top-middle
+        quote: >
+          Dean's List - Perfect Honors: Spring 2014, Fall 2013, Spring 2013
+        description: Collaborated in a team environment on the design, planning and implementation of a secure enterprise network representing the typical services offered by a business such as guest users, contractors and personal devices (BYOD).
+      - layout: top-right
         title: UW-Stevens Point
         # caption: years attended
         sub_title: "Bachelor of Science: Communication & Media Studies"
