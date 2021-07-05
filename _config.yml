@@ -225,8 +225,8 @@ content:
             - F5-CTS, Application Security Manager (F5-CTS, ASM); EXP 02/2019
             - Cisco Certified Network Associate (CCNA) – Routing & Switching; EXP 04/2018
             - Palo Alto Networks Accredited Configuration Engineer (ACE)
-          quote: >
-            - Azure AZ-104 - Microsoft Azure Administrator exam study in progress to complete summer '21
+        quote: >
+            - Azure AZ-104 - Microsoft Azure Administrator exam study in progress to complete summer 2021
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
