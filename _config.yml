@@ -137,7 +137,7 @@ content:
     content:
       - layout: top-middle
         title: "Google Cloud Platform (GCP) - Partner Interconnect Deployment"
-        link: github.com/jksprattler/gcp-networking
+        # link: github.com/jksprattler/gcp-networking
         # link_text: Project Website
         additional_links:
           - title:  jksprattler/gcp-networking
@@ -152,7 +152,7 @@ content:
           Designed, developed and implemented the Deployment Manager (DM) Jinja2 templates to automate the implementation of multiple strategically located regional GCP Partner Interconnects including the networking infrastructure required for connectivity such as VPC's, subnets, cloud routers, etc. Developing further automation strategies within the GCP cloud networking environment including REST API calls, DM templating and gcloud CLI scripting where applicable.
       - layout: top-middle
         title: "Azure DevOps (ADO) - CI/CD Architecture Design"
-        #link: github.com/jksprattler/
+        # link: github.com/jksprattler/
         # link_text: Project Website
         #additional_links:
         #  - title:  jksprattler/gcp-networking
@@ -167,7 +167,7 @@ content:
           Designed and developed the Azure DevOps (ADO) CI/CD architecture for network cloud deployments integrating features such as ADO Git repo, Wiki, and build/release pipelines completely from scratch. A key driver for this was automating the deployments for our global cloud firewall solution hosted in all of our landing zones (AWS, Azure, GCP, OCI).         
       - layout: top-middle
         title: "Talent Rotation - Cloud Engineer (Azure Landing Zone)"
-        link: github.com/jksprattler/azure-networking
+        # link: github.com/jksprattler/azure-networking
         # link_text: Project Website
         additional_links:
           - title:  jksprattler/azure-networking
@@ -182,7 +182,7 @@ content:
           Participated in a 6-month Talent Rotation as an Azure Cloud Engineer applying skills such as source code management (ADO Git), running CI/CD release pipelines (ADO) to push out code changes for production environments, scripting in various languages including AZ CLI/Bash/Python and working with API tools to make subscription changes (RBAC, RG’s, subnets, etc.).     
       - layout: top-middle
         title: "Cloud Connectivity Migrations - AWS, Azure"
-        link: github.com/jksprattler/aws-networking
+        # link: github.com/jksprattler/aws-networking
         # link_text: Project Website
         additional_links:
           - title:  jksprattler/aws-networking
@@ -197,7 +197,7 @@ content:
           Collaborated with several cross-functional teams to migrate 100+ public cloud accounts/subscriptions from prior Refinitiv owned WAN service over to the new TR owned WAN service on AWS Direct Connect (DX) and Azure ExpressRoute (ER).  
       - layout: top-middle
         title: "F5 BIG-IP Build & Implementation Lead (Cisco ACI Network)"
-        link: github.com/jksprattler/f5-tmsh
+        # link: github.com/jksprattler/f5-tmsh
         # link_text: Project Website
         additional_links:
           - title:  jksprattler/f5-tmsh
@@ -216,16 +216,17 @@ content:
     content:
       - layout: left
         #sub_title: ☁️ + ♾️
-        description: | # this will include new lines to allow paragraphs 
-            - Azure AZ-104 - Microsoft Azure Administrator exam study in progress
-            - AWS Certified Solutions Architect – Associate
-            - Microsoft Certified: Azure Fundamentals (AZ-900)
-            - F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM); EXP 01/2021       
-            - F5 Certified BIG-IP Administrator (F5-CA); EXP 12/2021
+        description: | # this will include new lines to allow paragraphs             
+            - [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url)
+            - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.youracclaim.com/badges/791ba496-d53c-4cb0-8873-f95d2027789c/public_url)
+            - [F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM)](https://www.certmetrics.com/f5certified/public/badge.aspx?i=2&t=c&d=2017-01-09&ci=F50000113308); EXP 01/2021       
+            - F5 Certified BIG-IP Administrator (F5-CA); EXP 01/2021
             - F5-CTS, BIG-IP DNS (GTM); EXP 12/2019
             - F5-CTS, Application Security Manager (F5-CTS, ASM); EXP 02/2019
             - Cisco Certified Network Associate (CCNA) – Routing & Switching; EXP 04/2018
-            - Palo Alto Networks Accredited Configuration Engineer (ACE)    
+            - Palo Alto Networks Accredited Configuration Engineer (ACE)
+          quote: >
+            - Azure AZ-104 - Microsoft Azure Administrator exam study in progress to complete summer '21
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -234,10 +235,14 @@ content:
         title: Madison College
         # caption: years attended
         sub_title: "Associate of Applied Science: IT – Network Security Specialist"
+        description: |
+        Dean's List – Perfect Honors: Spring 2014, Fall 2013, Spring 2013
+        Collaborated in a team environment on the design, planning and implementation of a secure enterprise network representing the typical services offered by a business such as guest users, contractors and personal devices (BYOD).
       - layout: top-middle
         title: UW-Stevens Point
         # caption: years attended
-        sub_title: "Bachelor of Science: Communication & Media Studies"                 
+        sub_title: "Bachelor of Science: Communication & Media Studies"
+        description: Student Newspaper (Reporter), WWSP 90FM (Disc Jockey), Swim Team, Study Abroad (Greece)             
 
   - title: Interests
     layout: text
@@ -245,26 +250,18 @@ content:
       - Cooking
 
         ![salad](/images/noodle-salad.jpg)
-      - Gardening - This is my [GreenStalk](https://greenstalkgarden.com/): 
+      - Gardening - This is my <a href="https://greenstalkgarden.com/" target="_blank" rel="noopener noreferrer">GreenStalk</a>: 
       
         ![greenstalk](/images/greenstalk.gif)
       - Pugs! Meet Mr. Barry:
 
         ![Pugs](/images/barry1.jpg)
-#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#      - Rock climbing
-#      - Gaming
-#      - Knitting
-#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-#
-#      Look at this cool image  
-#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
 # references_title: Resume site was made using a Jekyll theme hosted on an AWS S3 bucket deployed using Github Actions
 references_title: |
-  Resume site created using a Jekyll theme hosted on an AWS S3 bucket served on a Cloudfront distribution with automated CI/CD deployment using Github Actions, please see <a href="https://jksprattler.github.io/jennas-runbooks/DevOps/CI-CD/jekyll-s3-actions.html">Jenna's Runbooks</a> for details
+  Resume site created using a Jekyll theme hosted on an AWS S3 bucket served on a Cloudfront distribution with automated CI/CD deployment using Github Actions, please see <a href="https://jksprattler.github.io/jennas-runbooks/DevOps/CI-CD/jekyll-s3-actions.html" target="_blank" rel="noopener noreferrer">Jenna's Runbooks</a> for build details
 
 # Build settings
 remote_theme: sproogen/resume-theme
