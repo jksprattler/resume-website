@@ -233,14 +233,14 @@ content:
       - layout: top-right
         title: Madison College
         # caption: years attended
-        sub_title: "Associate of Applied Science: IT – Network Security Specialist"
+        sub_title: "AAS: IT – Network Security Specialist"
         quote: >
           Dean's List - Perfect Honors: Spring 2014, Fall 2013, Spring 2013
         description: Collaborated in a team environment on the design, planning and implementation of a secure enterprise network representing the typical services offered by a business such as guest users, contractors and personal devices (BYOD).
       - layout: top-right
         title: UW-Stevens Point
         # caption: years attended
-        sub_title: "Bachelor of Science: Communication & Media Studies"
+        sub_title: "BSc: Communication & Media Studies"
         description: Student Newspaper (Reporter), WWSP 90FM (Disc Jockey), Swim Team, Study Abroad (Greece)             
 
   - title: Interests
