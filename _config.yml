@@ -152,8 +152,8 @@ content:
           Designed, developed and implemented the Deployment Manager (DM) Jinja2 templates to automate the implementation of multiple strategically located regional GCP Partner Interconnects including the networking infrastructure required for connectivity such as VPC's, subnets, cloud routers, etc. Developing further automation strategies within the GCP cloud networking environment including REST API calls, DM templating and gcloud CLI scripting where applicable.
       - layout: top-middle
         title: "Azure DevOps (ADO) - CI/CD Architecture Design"
-        # link: github.com/jksprattler/
-        # link_text: Project Website
+        link: https://jksprattler.github.io/jennas-runbooks/DevOps/Concepts/network-devops-transformation.html
+        link_text: Jenna's Runbooks | Network DevOps Transformation
         #additional_links:
         #  - title:  jksprattler/gcp-networking
         #    icon: fab fa-github
