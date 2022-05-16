@@ -240,14 +240,14 @@ content:
         #sub_title: ☁️ + ♾️
         description: | # this will include new lines to allow paragraphs             
             - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect – Associate</a>
+            - <a href="https://www.credly.com/badges/6c4dd0b7-0353-48e6-a0fd-74aee0778ae5/public_url" target="_blank" rel="noopener noreferrer">Juniper Networks Certified Associate – Junos (JNCIA-Junos)</a>
             - <a href="https://www.youracclaim.com/badges/791ba496-d53c-4cb0-8873-f95d2027789c/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Fundamentals (AZ-900)</a>
+            - Palo Alto Networks Accredited Configuration Engineer (ACE)
             - <a href="https://www.certmetrics.com/f5certified/public/badge.aspx?i=2&t=c&d=2017-01-09&ci=F50000113308" target="_blank" rel="noopener noreferrer">F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM)</a>; EXP 01/2021       
             - F5 Certified BIG-IP Administrator (F5-CA); EXP 01/2021
             - F5-CTS, BIG-IP DNS (GTM); EXP 12/2019
             - F5-CTS, Application Security Manager (F5-CTS, ASM); EXP 02/2019
-            - Cisco Certified Network Associate (CCNA) – Routing & Switching; EXP 04/2018
-            - Palo Alto Networks Accredited Configuration Engineer (ACE)
-            - *Azure AZ-104 - Microsoft Azure Administrator exam study in progress to complete summer 2021*
+            - Cisco Certified Network Associate (CCNA) – Routing & Switching; EXP 04/2018       
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
