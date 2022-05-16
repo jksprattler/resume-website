@@ -53,7 +53,7 @@ content:
         sub_title: ☁️ + ♾️
         description: | # this will include new lines to allow paragraphs  
             - 3 years experience working in Agile team environments
-            - 3 years experience in the design, deployment and management of enterprise class multi-vendor public cloud connectivity and SaaS solutions (AWS, Azure, GCP, OCI)
+            - 3 years experience in the design, deployment and management of enterprise class multi-vendor public cloud connectivity, IaaS, and SaaS solutions (AWS, Azure, GCP, OCI)
             - Solid understanding of the AWS, Azure, GCP and OCI hub-and-spoke networking model
             - 3 years experience automating repetitive tasks by scripting out solutions using bash, python
             - 2 years experience developing and implementing Infrastructure-as-Code (IaC) and Configuration Management tooling (AWS CloudFormation, Azure ARM, Google Cloud Deployment Manager and Terraform for all 3 mentioned cloud providers)
@@ -106,7 +106,7 @@ content:
             - Team F5 BIG-IP SME delivering skillful troubleshooting of incidents; thorough planning and documentation for implementations; and mentoring colleagues
             - Designed, implemented and supported dedicated and shared infrastructure including Hybrid Cloud (AWS, Azure, OCI, GCP), SD-WAN (Zscaler, Silverpeak), F5 Load Balancers, Checkpoint& Palo Alto Firewalls, DNS/FTP/Squid/Socks RHEL proxies, Cisco ASA/Routers/Switches (NexusNX-OS & IOS)
             - Reviewed capacity plans, evaluated performance, and created standards for the F5 Estate
-            - Corresponded with customers, colleagues and vendors to ensure root cause analysis wasbeing pursued on all incidents and next plan of action steps were defined
+            - Corresponded with customers, colleagues and vendors to ensure root cause analysis was being pursued on all incidents and next plan of action steps were defined
             - Published and updated network support and engineering documentation
             - Efficiently managed multiple priorities and projects with competing deadlines
             - Adhered to ITIL processes during incident, change and problem management using ServiceNow
