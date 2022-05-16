@@ -134,6 +134,7 @@ content:
             - Designed, tested and implemented PowerShell scripts for Active Directory changes
             - Maintained hardware and software inventory using PowerShell, SCOM and SCCM reporting tools
             - Completed Windows XP to Windows 7 upgrades and migrations
+            Note: This role was with Suttle-Straus® a wholly owned subsidiary of Telephone and Data Systems, Inc. (TDS), recognized as a Fortune 500® 2016 company.
       - layout: left
         link: tdsinc.com
         sub_title: IT Support Technician Intern            
@@ -243,11 +244,11 @@ content:
             - <a href="https://www.credly.com/badges/6c4dd0b7-0353-48e6-a0fd-74aee0778ae5/public_url" target="_blank" rel="noopener noreferrer">Juniper Networks Certified Associate – Junos (JNCIA-Junos)</a>
             - <a href="https://www.youracclaim.com/badges/791ba496-d53c-4cb0-8873-f95d2027789c/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Fundamentals (AZ-900)</a>
             - Palo Alto Networks Accredited Configuration Engineer (ACE)
-            - <a href="https://www.certmetrics.com/f5certified/public/badge.aspx?i=2&t=c&d=2017-01-09&ci=F50000113308" target="_blank" rel="noopener noreferrer">F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM)</a>; EXP 01/2021       
-            - F5 Certified BIG-IP Administrator (F5-CA); EXP 01/2021
-            - F5-CTS, BIG-IP DNS (GTM); EXP 12/2019
-            - F5-CTS, Application Security Manager (F5-CTS, ASM); EXP 02/2019
-            - Cisco Certified Network Associate (CCNA) – Routing & Switching; EXP 04/2018       
+            - <a href="https://www.credly.com/badges/29597788-48d9-4b8f-8f19-a77508af5226/public_url" target="_blank" rel="noopener noreferrer">F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM)</a>; EXP 01/2021       
+            - <a href="https://www.credly.com/badges/d3f2aaa7-69d6-4e96-b5b4-9044e6a78ea0/public_url" target="_blank" rel="noopener noreferrer">F5 Certified BIG-IP Administrator (F5-CA)</a>; EXP 01/2021
+            - <a href="https://www.credly.com/badges/bea35d72-25bc-459a-bde9-3670ff80f844/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, BIG-IP DNS (GTM)</a>; EXP 12/2019
+            - <a href="https://www.credly.com/badges/d58d6baa-4933-4515-be80-a26dbf6531b3/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Application Security Manager (F5-CTS, ASM)</a>; EXP 02/2019
+            - Cisco Certified Network Associate (CCNA) – Routing & Switching; EXP 04/2018  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
