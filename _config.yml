@@ -41,10 +41,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Solution-oriented, results-driven Technologist with 6 years of enterprise network engineering experience and 4.5 years collaborating with multi-national teams and colleagues located in Canada, India, UK, Brazil, and Australia. 
-
-  Over the past 2 years, I've been working primarily with Enterprise Class Multi-Cloud vendor products including AWS, Azure, GCP (Google), and OCI (Oracle) providing design, development, and delivery of tasks with a focus on Hybrid Cloud network solutions, DevOps and automation.
-
+  Solution-oriented, results-driven Technologist with over 10 years’ experience in the IT industry including 6.5 years of enterprise network security engineering experience. Over the past 3 years, I've been working primarily with Enterprise Class Multi-Cloud vendor products including AWS, Azure, GCP (Google), and OCI (Oracle) providing design, development, and delivery of tasks with a focus on Hybrid Cloud network and security solutions, DevOps and automation. 
+  
+  Throughout my career, I’ve had the opportunity to work with a variety of different companies including very large complex enterprises, growing SaaS start-ups and value-added resellers. This has provided me with invaluable experiences rich with Networking, Security, Cloud and DevOps.
+  
 content:
   - title: Cloud & DevOps Skills
     layout: list # Type of content section (list/text)
@@ -52,15 +52,15 @@ content:
       - layout: left
         sub_title: ☁️ + ♾️
         description: | # this will include new lines to allow paragraphs  
-            - 2 years experience working in Agile team environments
-            - 2 years experience in the design, deployment and management of enterprise class mult-vendor public cloud connectivity solutions (AWS, Azure, GCP, OCI)
+            - 3 years experience working in Agile team environments
+            - 3 years experience in the design, deployment and management of enterprise class multi-vendor public cloud connectivity, IaaS, and SaaS solutions (AWS, Azure, GCP, OCI)
             - Solid understanding of the AWS, Azure, GCP and OCI hub-and-spoke networking model
+            - 3 years experience automating repetitive tasks by scripting out solutions using bash, python
+            - 2 years experience developing and implementing Infrastructure-as-Code (IaC) and Configuration Management tooling (AWS CloudFormation, Azure ARM, Google Cloud Deployment Manager and Terraform for all 3 mentioned cloud providers)
+            - 2 years experience utilizing CI/CD technologies (Azure DevOps, Git, Jenkins)
             - 2 years experience with IP Address Management (IPAM) of cloud address space (Infoblox)
-            - 2+ years experience automating repetitive tasks by scripting out solutions using bash, python
-            - 1+ years experience developing and implementing Infrastructure-as-Code and Configuration Management tooling (AWS CloudFormation, Azure ARM, Google Cloud Deployment Manager)
-            - 1+ years experience utilizing CI/CD technologies (Azure DevOps, Git)
             - 1+ years experience providing training, mentoring and demos of cloud networking and DevOps concepts
-            - Proficient in working with ADO Git and Github
+            - Proficient in working with ADO Git and GitHub
             - Strong documentation skills and experience generating technical documents, runbooks, diagrams, solutions specifications, guidelines, processes, and procedures.
               
               👇 Please see Projects & Highlights section below for details 👇
@@ -68,18 +68,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Kentik
+        link: kentik.com
+        sub_title: Site Reliablity Engineer
+        caption: September 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+            - Architecting, building, monitoring and maintaining the microservices-based infrastructure and services that the Kentik SaaS platform runs on top, both on-premise and in cloud
+            - Configuration management tools: Terraform, Ansible, Puppet, Nornir
+            - Containerization: Kubernetes (AKS, EKS, GKE), Docker
+            - Additional tools and technologies: Jenkins, GitHub, Bash, Python, PostgreSQL, ELK stack (Grafana, Kibana), Juniper network devices, TCP/BGP networking, HAproxy
+            - Active participant in on-call rotation (PagerDuty)
+      - layout: left
         title: Thomson Reuters
         link: thomsonreuters.com
         sub_title: Lead Cloud Network Engineer
-        caption: April 2021 - Present
+        caption: April 2021 - September 2021
         description: | # this will include new lines to allow paragraphs
             - Hybrid Cloud Network Design & Engineering Technical Lead for the AWS, Azure, GCP and OCI footprint
-            - Leading a daily standup reviewing cloud related incidents, requests and implementations
-            - Presenting weekly/monthly demos to the network teams on new SOP’s related to the DevOps and automation of cloud network design and implementations
-            - Leading the design and implementation for the automated ADO CI/CD deployment of a stateful next generation firewall (NGFW) solution to increase the security footprint across all our landing zones
-            - Configuring monitors and alerts using cloud native tools and Datadog for bandwidth utilization, BGP, and general circuit health related issues
-            - Developing and/or customizing cloud templates for network deployments (AWS CloudFormation, Azure ARM, Google Cloud Deployment Manager) using ADO Release Pipelines         
-            - Writing and updating SOP's, runbooks and design documentation
+            - Led a daily standup reviewing cloud related incidents, requests and implementations
+            - Presented weekly/monthly demos to the network teams on new SOP’s related to the DevOps and automation of cloud network design and implementations
+            - Design and implementation lead for the automated ADO CI/CD deployment of a stateful next generation firewall (NGFW) solution to increase the security footprint across all our landing zones
+            - Firewall rule, policy and log (Splunk) evaluation to ensure connectivity between on premise and cloud environments were secure
+            - Configured monitors and alerts using cloud native tools and Datadog for bandwidth utilization, BGP, and general circuit health related issues
+            - Developed and/or customized cloud templates for network deployments (AWS CloudFormation, Azure ARM, Google Cloud Deployment Manager) using ADO Release Pipelines
+            - Design and allocation of IPAM in Infoblox for cloud address space
+            - Published SOP's, runbooks and design documentation
+            - Collaborated with 3rd party providers including WAN, Cloud and Firewall vendors on cloud and security designs and implementations 
+            - Level III escalation resource for incident resolution
       - layout: left
 #        title: Thomson Reuters
         link: thomsonreuters.com
@@ -89,11 +104,12 @@ content:
             - Network Incident & Implementation Engineer for the Global Enterprise LAN Network & Security Group
             - Team Cloud Networking SME developing highly technical documentation, diagrams, configuration management templates and bash/python automation scripts
             - Team F5 BIG-IP SME delivering skillful troubleshooting of incidents; thorough planning and documentation for implementations; and mentoring colleagues
-            - Designed, implemented and supported dedicated and shared infrastructure including Hybrid Cloud (AWS, Azure, OCI, GCP), SD-WAN (Zscaler, Silverpeak), F5 Load Balancers, Checkpoint & Palo Alto Firewalls, DNS/FTP/Squid/Socks RHEL proxies, Cisco ASA/Routers/Switches (Nexus NX-OS & IOS) 
+            - Designed, implemented and supported dedicated and shared infrastructure including Hybrid Cloud (AWS, Azure, OCI, GCP), SD-WAN (Zscaler, Silverpeak), F5 Load Balancers, Checkpoint & Palo Alto Firewalls, DNS/FTP/Squid/Socks RHEL proxies, Cisco ASA/Routers/Switches (Nexus NX-OS & IOS)
             - Reviewed capacity plans, evaluated performance, and created standards for the F5 Estate
             - Corresponded with customers, colleagues and vendors to ensure root cause analysis was being pursued on all incidents and next plan of action steps were defined
             - Published and updated network support and engineering documentation
             - Efficiently managed multiple priorities and projects with competing deadlines
+            - Adhered to ITIL processes during incident, change and problem management using ServiceNow
       - layout: left
         title: Kudelski Security
         link: kudelskisecurity.com
@@ -103,12 +119,14 @@ content:
             - Level I/II F5 BIG-IP Product line Support Engineer for various Fortune 100/500 enterprise customers in the financial, healthcare, aerospace, nuclear and retail industries
             - Supported F5 Modules including: LTM, GTM, APM, ASM, AFM, vCMP, BIG-IQ, EM
             - Troubleshot and reproduced highly complex network and application issues using lab resources
-            - Performed deep packet analysis using Wireshark, Fiddler, tcpdump and ssldump tools 
-            - Provided technical documentation, verbal explanation of Root Cause Analysis and solutions for impacted highly available production systems to both technical and non-technical audiences  
+            - Performed deep packet analysis using Wireshark, Fiddler, tcpdump and ssldump tools
+            - Provided technical documentation, verbal explanation of Root Cause Analysis and solutions for impacted highly available production systems to both technical and non-technical audiences
             - Consulted with vendors, colleagues and customers in an expedited manner to exceed SLA's
+            - Active participant in 24/7 on-call rotation
+            - Customers included: Target, Wells Fargo, Lockheed Martin, TaxAct, MoneyGram, Menards, Macy’s, 3M, General Mills, Kimberly Clark, Publix, St. Jude Medical, JDA Software, Medtronic, Institute of Nuclear Power Operations, QTS, Neiman Marcus
       - layout: left
         title: TDS
-        link: tdsinc.com
+        link: suttle-straus.com
         sub_title: IT Systems Specialist            
         caption: March 2014 – July 2014
         description: | # this will include new lines to allow paragraphs
@@ -135,6 +153,10 @@ content:
   - title: Projects & Highlights # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: "SOC2 Multi-cloud Security Audit"
+        description: | # this will include new lines to allow paragraphs
+          Led a Vanta SOC2 compliance audit across our multi-cloud infrastructure (AWS, Azure, GCP) implementing and standardizing monitoring, alerting, tagging, versioning, security gaps, etc.
       - layout: top-middle
         title: "Google Cloud Platform (GCP) - Partner Interconnect Deployment"
         # link: github.com/jksprattler/gcp-networking
