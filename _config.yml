@@ -154,9 +154,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: "SOC2 Multi-cloud Security Audit"
+        title: "SOC2 Multi-Cloud Security Audit"
         description: | # this will include new lines to allow paragraphs
-          Led a Vanta SOC2 compliance audit across our multi-cloud infrastructure (AWS, Azure, GCP) implementing and standardizing monitoring, alerting, tagging, versioning, security gaps, etc.
+          Led a Vanta SOC2 compliance audit across our Multi-Cloud infrastructure (AWS, Azure, GCP) implementing and standardizing monitoring, alerting, tagging, versioning, security gaps, etc.
       - layout: top-middle
         title: "Google Cloud Platform (GCP) - Partner Interconnect Deployment"
         # link: github.com/jksprattler/gcp-networking
