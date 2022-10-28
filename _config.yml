@@ -149,8 +149,10 @@ content:
     content:
       - layout: top-middle
         title: "Jenna's Runbooks | Technical Blog"
-        link: https://jksprattler.github.io/jennas-runbooks/
-        link_text: Jenna's Runbooks | Technical Blog       
+        additional_links:
+          - title:  jennas-runbooks
+            icon: fas fa-globe
+            url: https://jksprattler.github.io/jennas-runbooks/    
         description: | # this will include new lines to allow paragraphs
           Contributing to Jenna's Runbooks | Technical Blog, a personal project portfolio including topics such as Multi-Cloud (AWS, Azure, GCP), DevOps, Networking, Security and Automation.
       - layout: top-middle
