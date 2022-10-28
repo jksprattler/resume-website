@@ -144,7 +144,7 @@ content:
             - Redesigned the Active Directory group policy architecture for an SAP BI 4.0 upgrade
             - Executed Tenable Nessus security vulnerability scans for patch management reports                       
 
-  - title: Projects & Highlights # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
