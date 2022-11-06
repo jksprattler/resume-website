@@ -58,7 +58,7 @@ content:
             - CI/CD Pipelines: Azure DevOps (ADO), GitHub Actions, Jenkins
             - Monitoring/Alerting/Logging: ELK stack, Kibana, Grafana, Icinga, Bosun, SevOne, DataDog, Splunk
             - Systems: Debian Linux, RedHat Enterprise Linux, Windows 10/11, MacOS, PostgreSQL
-            - Firewalls: CheckPoint, Palo Alto, Cisco ASA, Linux iptables, Azure NSG, AWS NACL/Security Group, GCP VPC firewall rules
+            - Firewalls: Check Point, Palo Alto, Cisco ASA, Linux iptables, Azure NSG, AWS NACL/Security Group, GCP VPC firewall rules
             - Network: F5 BIG-IP, Proxies (DNS/FTP/Squid/Socks), Infoblox, Cisco & Juniper Routers & Switches (Nexus NX-OS, IOS), BGP, HAproxy, Wireshark, TCP/IP, Zscaler, Silver Peak
             - Troubleshooting: incident management, analytical, critical thinking, calm under pressure, problem-solving, communication, on-call, ITIL
             - Project Planning: prioritization, organization, collaboration, delegation, scheduling, documentation, presenting, agile, scrum
@@ -73,10 +73,10 @@ content:
         caption: September 2021 - Present
         description: | # this will include new lines to allow paragraphs
             - Architecting, building, monitoring and maintaining the microservices-based infrastructure and services that the Kentik SaaS platform runs on
-            - Interacting with the cloud product UI teams and software engineers to implement and verify user interface concepts
-            - Upgraded 300+ Linux-based images/agents across a global multi-cloud footprint using Ansible and Terraform for the Kentik Synthetics product
+            - Interacting with cloud product UI teams and backend software engineers to implement cloud infrastructure and verify user interface concepts
+            - Upgraded 300+ Linux-based images/agents across a global multi-cloud fleet using Ansible and Terraform for the Kentik Synthetics product
             - Analyzed cloud costs across 12+ major/minor cloud service providers capturing monthly average spend on a subset of product platforms and calculated potential annual savings in the tens of thousands of dollars by migrating to reserved/committed instances
-            - Led a Vanta SOC 2 compliance audit across Kentik's multi-vloud infrastructure (AWS, Azure, GCP) implementing and standardizing monitoring, alerting, tagging, versioning and security gaps using bash scripts and Terraform
+            - Led a Vanta SOC 2 compliance audit across Kentik's multi-cloud infrastructure (AWS, Azure, GCP) implementing and standardizing monitoring, alerting, tagging, versioning and security gaps using bash scripts and Terraform
       - layout: left
         title: Thomson Reuters
         link: thomsonreuters.com
