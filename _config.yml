@@ -211,24 +211,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           Orchestrated the builds and implementations of several F5 BIG-IP i-series appliances hosting vCMP virtual guests across multiple strategically located Data Center colocations via Greenfield Cisco ACI deployment. Developed automation processes for the F5 builds using tmsh/bash scripts, F5 Declarative Onboarding (DO) Model API calls, and Git source control.                       
 
-  - title: Skills
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        #sub_title: ☁️ + ♾️
-        description: | # this will include new lines to allow paragraphs  
-            - Cloud: Amazon (AWS), Azure, Google (GCP), Oracle, DigitalOcean, Alibaba, Tencent
-            - Containerization: Kubernetes (AKS, EKS, GKE), Docker
-            - Configuration Management: Terraform, Ansible, Puppet, Nornir, AWS CloudFormation, Azure ARM, GCP Deployment Manager
-            - Programming/Scripting: HCL, Bash Shell, Python, PowerShell
-            - Data Analysis: SQL, KQL
-            - CI/CD Pipelines: Azure DevOps (ADO), GitHub Actions, Jenkins
-            - Monitoring/Alerting/Logging: ELK stack, Kibana, Grafana, Icinga, Bosun, SevOne, DataDog, Splunk
-            - Systems: Debian Linux, RedHat Enterprise Linux, Windows 10/11, MacOS, PostgreSQL
-            - Firewalls: Check Point, Palo Alto, Cisco ASA, Linux iptables, Azure NSG, AWS NACL/Security Group, GCP VPC firewall rules
-            - Network: F5 BIG-IP, Proxies (DNS/FTP/Squid/Socks), Infoblox, Cisco & Juniper Routers & Switches (Nexus NX-OS, IOS), BGP, HAproxy, Wireshark, TCP/IP, Zscaler, Silver Peak
-            - Troubleshooting: incident management, analytical, critical thinking, calm under pressure, problem-solving, ownership, on-call, ITIL
-            - Project Planning: prioritization, organization, collaboration, delegation, scheduling, documentation, presenting, agile, scrum           
+  #- title: Skills
+  #  layout: list # Type of content section (list/text)
+  #  content:
+  #    - layout: left
+  #      #sub_title: ☁️ + ♾️
+  #      description: | # this will include new lines to allow paragraphs  
+  #          - Cloud: Amazon (AWS), Azure, Google (GCP), Oracle, DigitalOcean, Alibaba, Tencent
+  #          - Containerization: Kubernetes (AKS, EKS, GKE), Docker
+  #          - Configuration Management: Terraform, Ansible, Puppet, Nornir, AWS CloudFormation, Azure ARM, GCP Deployment Manager
+  #          - Programming/Scripting: HCL, Bash Shell, Python, PowerShell
+  #          - Data Analysis: SQL, KQL
+  #          - CI/CD Pipelines: Azure DevOps (ADO), GitHub Actions, Jenkins
+  #          - Monitoring/Alerting/Logging: ELK stack, Kibana, Grafana, Icinga, Bosun, SevOne, DataDog, Splunk
+  #          - Systems: Debian Linux, RedHat Enterprise Linux, Windows 10/11, MacOS, PostgreSQL
+  #          - Firewalls: Check Point, Palo Alto, Cisco ASA, Linux iptables, Azure NSG, AWS NACL/Security Group, GCP VPC firewall rules
+  #          - Network: F5 BIG-IP, Proxies (DNS/FTP/Squid/Socks), Infoblox, Cisco & Juniper Routers & Switches (Nexus NX-OS, IOS), BGP, HAproxy, Wireshark, TCP/IP, Zscaler, Silver Peak
+  #          - Troubleshooting: incident management, analytical, critical thinking, calm under pressure, problem-solving, ownership, on-call, ITIL
+  #          - Project Planning: prioritization, organization, collaboration, delegation, scheduling, documentation, presenting, agile, scrum           
 
   - title: Interests
     layout: text
