@@ -211,7 +211,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Orchestrated the builds and implementations of several F5 BIG-IP i-series appliances hosting vCMP virtual guests across multiple strategically located Data Center colocations via Greenfield Cisco ACI deployment. Developed automation processes for the F5 builds using tmsh/bash scripts, F5 Declarative Onboarding (DO) Model API calls, and Git source control.                       
 
-  #- title: Skills##
+  #- title: Skills###
   #  layout: list # Type of content section (list/text)
   #  content:
   #    - layout: left
