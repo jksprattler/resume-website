@@ -41,28 +41,39 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Solution-oriented, results-driven Technologist with over 10 years' experience in the IT industry. Over the past 3+ years, I've been working primarily with Enterprise Class Multi-Cloud vendor products including Amazon (AWS), Azure and Google (GCP) providing design, development, and delivery of tasks with a focus on hybrid cloud network, security, devops, automation and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies including very large complex enterprises, growing SaaS start-ups and value-added resellers. This has provided me with invaluable experiences in Networking, Security, Cloud and DevOps.
+  Solution-oriented, results-driven Technologist with over 10 years' experience in the IT industry. For the past 3+ years, I've been working primarily with Enterprise Class Multi-Cloud vendor products including Amazon (AWS), Azure and Google (GCP) providing design, development, and delivery of tasks with a focus on hybrid cloud network, security, devops, automation and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies including very large complex enterprises, growing SaaS start-ups and value-added resellers.
   
 content:
-  - title: Skills
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Madison College
+        # caption: years attended
+        sub_title: "AAS: IT – Network Security Specialist"
+        #quote: >
+        #  Dean's List - Perfect Honors: Spring 2014, Fall 2013, Spring 2013
+        #description: Collaborated in a team environment on the design, planning and implementation of a secure enterprise network representing the typical services offered by a business such as guest users, contractors and personal devices (BYOD).
+      - layout: left
+        title: UW-Stevens Point
+        # caption: years attended
+        sub_title: "BSc: Communication & Media Studies"
+        #description: Student Newspaper (Reporter), WWSP 90FM (Disc Jockey), Swim Team, Study Abroad (Greece)
+
+   - title: Certifications
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         #sub_title: ☁️ + ♾️
-        description: | # this will include new lines to allow paragraphs  
-            - Cloud: Amazon (AWS), Azure, Google (GCP), Oracle, DigitalOcean, Alibaba, Tencent
-            - Containerization: Kubernetes (AKS, EKS, GKE), Docker
-            - Configuration Management: Terraform, Ansible, Puppet, Nornir, AWS CloudFormation, Azure ARM, GCP Deployment Manager
-            - Programming/Scripting: Bash, Python, PowerShell
-            - Data Analysis: SQL, KQL
-            - CI/CD Pipelines: Azure DevOps (ADO), GitHub Actions, Jenkins
-            - Monitoring/Alerting/Logging: ELK stack, Kibana, Grafana, Icinga, Bosun, SevOne, DataDog, Splunk
-            - Systems: Debian Linux, RedHat Enterprise Linux, Windows 10/11, MacOS, PostgreSQL
-            - Firewalls: Check Point, Palo Alto, Cisco ASA, Linux iptables, Azure NSG, AWS NACL/Security Group, GCP VPC firewall rules
-            - Network: F5 BIG-IP, Proxies (DNS/FTP/Squid/Socks), Infoblox, Cisco & Juniper Routers & Switches (Nexus NX-OS, IOS), BGP, HAproxy, Wireshark, TCP/IP, Zscaler, Silver Peak
-            - Troubleshooting: incident management, analytical, critical thinking, calm under pressure, problem-solving, communication, on-call, ITIL
-            - Project Planning: prioritization, organization, collaboration, delegation, scheduling, documentation, presenting, agile, scrum
-              
+        description: | # this will include new lines to allow paragraphs             
+            - <a href="https://www.credly.com/badges/08449e71-c830-4362-8092-c6b5d90194d9/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Administrator Associate (AZ-104)</a>
+            - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect – Associate</a>
+            - <a href="https://www.youracclaim.com/badges/791ba496-d53c-4cb0-8873-f95d2027789c/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Fundamentals (AZ-900)</a>
+            - <a href="https://www.credly.com/badges/6c4dd0b7-0353-48e6-a0fd-74aee0778ae5/public_url" target="_blank" rel="noopener noreferrer">Juniper Networks Certified Associate – Junos (JNCIA-Junos)</a>            
+            - <a href="https://www.credly.com/badges/29597788-48d9-4b8f-8f19-a77508af5226/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Local Traffic Manager (LTM)</a>; EXP 01/2021       
+            - <a href="https://www.credly.com/badges/bea35d72-25bc-459a-bde9-3670ff80f844/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, BIG-IP DNS (GTM)</a>; EXP 12/2019
+            - <a href="https://www.credly.com/badges/d58d6baa-4933-4515-be80-a26dbf6531b3/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Application Security Manager (ASM)</a>; EXP 02/2019
+             
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -75,7 +86,7 @@ content:
             - Architecting, building, monitoring and maintaining the microservices-based infrastructure and services that the Kentik SaaS platform runs on
             - Interacting with cloud product UI teams and backend software engineers to implement cloud infrastructure and verify user interface concepts
             - Upgraded 300+ Linux-based images/agents across a global multi-cloud fleet using Ansible and Terraform for the Kentik Synthetics product
-            - Analyzed cloud costs across 12+ major/minor cloud service providers capturing monthly average spend on a subset of product platforms and calculated potential annual savings in the tens of thousands of dollars by migrating to reserved/committed instances
+            - Analyzed cloud costs across 12+ major/minor cloud service providers capturing average monthly spend on a subset of product platforms and calculated potential annual savings in the tens of thousands of dollars by migrating to reserved/committed instances
             - Led a Vanta SOC 2 compliance audit across Kentik's multi-cloud infrastructure (AWS, Azure, GCP) implementing and standardizing monitoring, alerting, tagging, versioning and security gaps using bash scripts and Terraform
       - layout: left
         title: Thomson Reuters
@@ -200,38 +211,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           Orchestrated the builds and implementations of several F5 BIG-IP i-series appliances hosting vCMP virtual guests across multiple strategically located Data Center colocations via Greenfield Cisco ACI deployment. Developed automation processes for the F5 builds using tmsh/bash scripts, F5 Declarative Onboarding (DO) Model API calls, and Git source control.                       
 
-  - title: Certifications
+  - title: Skills
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         #sub_title: ☁️ + ♾️
-        description: | # this will include new lines to allow paragraphs             
-            - <a href="https://www.credly.com/badges/08449e71-c830-4362-8092-c6b5d90194d9/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Administrator Associate (AZ-104)</a>
-            - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect – Associate</a>
-            - <a href="https://www.youracclaim.com/badges/791ba496-d53c-4cb0-8873-f95d2027789c/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Fundamentals (AZ-900)</a>
-            - <a href="https://www.credly.com/badges/6c4dd0b7-0353-48e6-a0fd-74aee0778ae5/public_url" target="_blank" rel="noopener noreferrer">Juniper Networks Certified Associate – Junos (JNCIA-Junos)</a>            
-            - Palo Alto Networks Accredited Configuration Engineer (ACE)
-            - <a href="https://www.credly.com/badges/29597788-48d9-4b8f-8f19-a77508af5226/public_url" target="_blank" rel="noopener noreferrer">F5 Certified Technology Specialist, Local Traffic Manager (F5-CTS, LTM)</a>; EXP 01/2021       
-            - <a href="https://www.credly.com/badges/d3f2aaa7-69d6-4e96-b5b4-9044e6a78ea0/public_url" target="_blank" rel="noopener noreferrer">F5 Certified BIG-IP Administrator (F5-CA)</a>; EXP 01/2021
-            - <a href="https://www.credly.com/badges/bea35d72-25bc-459a-bde9-3670ff80f844/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, BIG-IP DNS (GTM)</a>; EXP 12/2019
-            - <a href="https://www.credly.com/badges/d58d6baa-4933-4515-be80-a26dbf6531b3/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Application Security Manager (F5-CTS, ASM)</a>; EXP 02/2019
-            - Cisco Certified Network Associate (CCNA) – Routing & Switching; EXP 04/2018  
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Madison College
-        # caption: years attended
-        sub_title: "AAS: IT – Network Security Specialist"
-        quote: >
-          Dean's List - Perfect Honors: Spring 2014, Fall 2013, Spring 2013
-        description: Collaborated in a team environment on the design, planning and implementation of a secure enterprise network representing the typical services offered by a business such as guest users, contractors and personal devices (BYOD).
-      - layout: left
-        title: UW-Stevens Point
-        # caption: years attended
-        sub_title: "BSc: Communication & Media Studies"
-        description: Student Newspaper (Reporter), WWSP 90FM (Disc Jockey), Swim Team, Study Abroad (Greece)             
+        description: | # this will include new lines to allow paragraphs  
+            - Cloud: Amazon (AWS), Azure, Google (GCP), Oracle, DigitalOcean, Alibaba, Tencent
+            - Containerization: Kubernetes (AKS, EKS, GKE), Docker
+            - Configuration Management: Terraform, Ansible, Puppet, Nornir, AWS CloudFormation, Azure ARM, GCP Deployment Manager
+            - Programming/Scripting: HCL, Bash Shell, Python, PowerShell
+            - Data Analysis: SQL, KQL
+            - CI/CD Pipelines: Azure DevOps (ADO), GitHub Actions, Jenkins
+            - Monitoring/Alerting/Logging: ELK stack, Kibana, Grafana, Icinga, Bosun, SevOne, DataDog, Splunk
+            - Systems: Debian Linux, RedHat Enterprise Linux, Windows 10/11, MacOS, PostgreSQL
+            - Firewalls: Check Point, Palo Alto, Cisco ASA, Linux iptables, Azure NSG, AWS NACL/Security Group, GCP VPC firewall rules
+            - Network: F5 BIG-IP, Proxies (DNS/FTP/Squid/Socks), Infoblox, Cisco & Juniper Routers & Switches (Nexus NX-OS, IOS), BGP, HAproxy, Wireshark, TCP/IP, Zscaler, Silver Peak
+            - Troubleshooting: incident management, analytical, critical thinking, calm under pressure, problem-solving, ownership, on-call, ITIL
+            - Project Planning: prioritization, organization, collaboration, delegation, scheduling, documentation, presenting, agile, scrum           
 
   - title: Interests
     layout: text
