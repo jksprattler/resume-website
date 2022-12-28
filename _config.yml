@@ -7,13 +7,13 @@ version: 2
 
 # Personal info
 name: Jenna Sprattler
-title: Site Reliability Engineer (Cloud)
+title: Cloud Engineer
 # email: 
 # web: https://github.com/jksprattler
 # Blog: .github.io/jennas-runbooks
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  jksprattler
@@ -41,7 +41,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Solution-oriented, results-driven Technologist with over 10 years' experience in the IT industry. For the past 3+ years, I've been working primarily with Enterprise Class Multi-Cloud vendor products including Amazon (AWS), Azure and Google (GCP) providing design, development, and delivery of tasks with a focus on hybrid cloud network, security, devops, automation and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies including very large complex enterprises, growing SaaS start-ups and value-added resellers.
+  Solution-oriented, results-driven hybrid network engineer transformed cloud engineer with over 10 years' experience in the IT industry. For the past 3.5+ years, I've held roles primarily working with enterprise-class multi-cloud vendor products including Amazon (AWS), Azure and Google (GCP) providing design, development, and delivery of tasks. My specialties include hybrid cloud networking, security, devops, automation, and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies including very large complex enterprises, growing SaaS start-ups and value-added resellers making me a well rounded engineer.
   
 content:          
   - title: Experience # Title for the section
@@ -105,11 +105,10 @@ content:
         sub_title: IT Systems Specialist            
         caption: March 2014 – July 2014
         description: | # this will include new lines to allow paragraphs
-            - Spearheaded a Microsoft Access 2010 upgrade, completing project one month prior to deadline
+            - Performed Windows 7 and Microsoft Access 2010 upgrades
             - Maintained hardware and software inventory using PowerShell, SCOM and SCCM reporting tools
-            - Upgraded Windows XP users to Windows 7
-            - Administered password lockouts, resets and group policy of Server 2012 Active Directory accounts
-            - Note: This role was with Suttle-Straus® a wholly owned subsidiary of Telephone and Data Systems, Inc. (TDS), recognized as a Fortune 500® 2016 company.
+            - Administered Server 2012 Active Directory group policy and user accounts
+            - This role was with Suttle-Straus® a wholly owned subsidiary of Telephone and Data Systems, Inc. (TDS), recognized as a Fortune 500® 2016 company
       - layout: left
         link: https://www.tdsinc.com/
         sub_title: IT Support Technician Intern            
