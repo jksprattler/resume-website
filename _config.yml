@@ -41,7 +41,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Solution-oriented, results-driven hybrid network engineer and transformed cloud engineer with over 10 years' experience in the IT industry. For the past 3.5+ years, I've held roles primarily working with enterprise-class multi-cloud vendor products, including Amazon (AWS), Azure, and Google (GCP), providing design, development, and delivery of tasks. My specialties include hybrid cloud networking, security, devops, automation, and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies, including very large, complex enterprises, growing SaaS start-ups, and value-added resellers, making me a well-rounded engineer.
+  Solution-oriented, results-driven hybrid network engineer transformed cloud engineer with over 10 years' experience in the IT industry. For the past 3.5+ years, I've held roles primarily working with enterprise-class multi-cloud vendor products, including Amazon (AWS), Azure, and Google (GCP), providing design, development, and delivery of tasks. My specialties include hybrid cloud networking, security, devops, automation, and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies, including very large, complex enterprises, growing SaaS start-ups, and value-added resellers, making me a well-rounded engineer.
   
 content:          
   - title: Experience # Title for the section
