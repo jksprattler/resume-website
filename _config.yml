@@ -189,6 +189,9 @@ content:
         # link: github.com/jksprattler/aws-networking
         # link_text: Project Website
         additional_links:
+          - title:  aws-case-study-thomson-reuters-migration
+            icon: fas fa-globe
+            url: https://aws.amazon.com/solutions/case-studies/thomson-reuters-migration/       
           - title:  jksprattler/aws-networking
             icon: fab fa-github
             url: github.com/jksprattler/aws-networking
@@ -196,7 +199,7 @@ content:
             icon: fab fa-github
             url: github.com/jksprattler/azure-networking
         description: | # this will include new lines to allow paragraphs
-          Collaborated with several cross-functional teams to migrate 100+ public cloud accounts/subscriptions from prior Refinitiv owned WAN service over to the new Thomson Reuters owned WAN service on AWS Direct Connect (DX) and Azure ExpressRoute (ER).  
+          Collaborated with several cross-functional teams to migrate 100+ public cloud accounts/subscriptions from prior Refinitiv, now LSEG, owned WAN service over to the new Thomson Reuters owned WAN service on AWS Direct Connect (DX) and Azure ExpressRoute (ER).
       - layout: top-middle
         title: "F5 BIG-IP Build & Implementation Lead (Cisco ACI Network)"
         # link: github.com/jksprattler/f5-tmsh
