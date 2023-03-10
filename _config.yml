@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jenna Sprattler
 title: Cloud Engineer
-# email: 
+# email:
 # web: https://github.com/jksprattler
 # Blog: .github.io/jennas-runbooks
 
@@ -24,10 +24,10 @@ linkedin_username: jennasprattler
 additional_links:
  - title: Youtube link
    icon: fab fa-youtube
-   url: https://www.youtube.com/channel/UC00Co9dzh7sUjNYVjidG95w  
+   url: https://www.youtube.com/channel/UC00Co9dzh7sUjNYVjidG95w
  - title: jennas-runbooks
    icon: fas fa-globe
-   url: https://jksprattler.github.io/jennas-runbooks/
+   url: https://blog.jennasrunbooks.com/
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
@@ -41,9 +41,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Solution-oriented, results-driven hybrid network engineer transformed cloud engineer with over 10 years' experience in the IT industry. For the past 3.5+ years, I've held roles primarily working with enterprise-class multi-cloud vendor products, including Amazon (AWS), Azure, and Google (GCP), providing design, development, and delivery of tasks. My specialties include hybrid cloud networking, security, devops, automation, and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies, including very large, complex enterprises, growing SaaS start-ups, and value-added resellers, making me a well-rounded engineer.
-  
-content:          
+  Solution-oriented, results-driven hybrid network engineer transformed cloud engineer with over 10 years' experience in the IT industry. For the past 3.5+ years, I've held roles primarily working with enterprise-class multi-cloud vendor products, including Amazon (AWS), Microsoft Azure, and Google (GCP), providing design, development, and delivery of tasks. My specialties include hybrid cloud networking, security, devops, automation, and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies, including very large, complex enterprises, growing SaaS start-ups, and value-added resellers, making me a well-rounded engineer.
+
+content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -102,7 +102,7 @@ content:
       - layout: left
         title: TDS
         link: https://www.suttle-straus.com/
-        sub_title: IT Systems Specialist            
+        sub_title: IT Systems Specialist
         caption: March 2014 – July 2014
         description: | # this will include new lines to allow paragraphs
             - Performed Windows 7 and Microsoft Access 2010 upgrades
@@ -111,19 +111,19 @@ content:
             - This role was with Suttle-Straus® a wholly owned subsidiary of Telephone and Data Systems, Inc. (TDS), recognized as a Fortune 500® 2016 company
       - layout: left
         link: https://www.tdsinc.com/
-        sub_title: IT Support Technician Intern            
+        sub_title: IT Support Technician Intern
         caption: December 2013 - March 2014
         description: | # this will include new lines to allow paragraphs
             - IT Service Management focused help desk utilizing the ITIL framework
-            - Troubleshot and repaired computer systems, software applications, hardware and peripherals   
+            - Troubleshot and repaired computer systems, software applications, hardware and peripherals
       - layout: left
         link: https://www.tdsinc.com/
-        sub_title: IT Security Intern            
+        sub_title: IT Security Intern
         caption: March 2013 - November 2013
         description: | # this will include new lines to allow paragraphs
             - Led a Sarbanes–Oxley (SOX) control initiative as the team's Project Manager
             - Redesigned the Active Directory group policy architecture for an SAP BI 4.0 upgrade
-            - Executed Tenable Nessus security vulnerability scans for patch management reports                       
+            - Executed Tenable Nessus security vulnerability scans for patch management reports
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -146,15 +146,15 @@ content:
     content:
       - layout: left
         #sub_title: ☁️ + ♾️
-        description: | # this will include new lines to allow paragraphs             
+        description: | # this will include new lines to allow paragraphs
             - <a href="https://www.credly.com/badges/08449e71-c830-4362-8092-c6b5d90194d9/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Administrator Associate (AZ-104)</a>
-            - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect – Associate</a>
+            - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect – Associate</a>; EXP 02/2023
             - <a href="https://www.youracclaim.com/badges/791ba496-d53c-4cb0-8873-f95d2027789c/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Fundamentals (AZ-900)</a>
-            - <a href="https://www.credly.com/badges/6c4dd0b7-0353-48e6-a0fd-74aee0778ae5/public_url" target="_blank" rel="noopener noreferrer">Juniper Networks Certified Associate – Junos (JNCIA-Junos)</a>            
-            - <a href="https://www.credly.com/badges/29597788-48d9-4b8f-8f19-a77508af5226/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Local Traffic Manager (LTM)</a>; EXP 01/2021       
+            - <a href="https://www.credly.com/badges/6c4dd0b7-0353-48e6-a0fd-74aee0778ae5/public_url" target="_blank" rel="noopener noreferrer">Juniper Networks Certified Associate – Junos (JNCIA-Junos)</a>
+            - <a href="https://www.credly.com/badges/29597788-48d9-4b8f-8f19-a77508af5226/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Local Traffic Manager (LTM)</a>; EXP 01/2021
             - <a href="https://www.credly.com/badges/bea35d72-25bc-459a-bde9-3670ff80f844/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, BIG-IP DNS (GTM)</a>; EXP 12/2019
             - <a href="https://www.credly.com/badges/d58d6baa-4933-4515-be80-a26dbf6531b3/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Application Security Manager (ASM)</a>; EXP 02/2019
-  
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -163,17 +163,17 @@ content:
         additional_links:
           - title:  jennas-runbooks
             icon: fas fa-globe
-            url: https://jksprattler.github.io/jennas-runbooks/    
+            url: https://blog.jennasrunbooks.com/
         description: | # this will include new lines to allow paragraphs
-          Contributing to Jenna's Runbooks - Technical Blog, a personal project portfolio including topics such as Multi-Cloud (AWS, Azure, GCP), DevOps, Networking, Security and Automation.
+          Contributing to Jenna's Runbooks - Technical Blog, a portfolio of personal projects including proof of concepts/labs/demos on topics such as Multi-Cloud (AWS, Azure, GCP), DevOps, Networking, Security and Automation.
       - layout: top-middle
         title: "Azure DevOps (ADO) - CI/CD Architecture Design"
-        additional_links: 
+        additional_links:
           - title: network-devops-transformation
             icon: fas fa-globe
-            url: https://jksprattler.github.io/jennas-runbooks/DevOps/Concepts/network-devops-transformation.html        
+            url: https://blog.jennasrunbooks.com/network-devops-transformation
         description: | # this will include new lines to allow paragraphs 
-          Architected and designed an Azure DevOps (ADO) CI/CD solution for network cloud deployments integrating features such as ADO Git repo, Wiki, and build/release pipelines completely from scratch. A key driver for this was automating the deployments for a global cloud firewall solution hosted across all landing zones.          
+          Architected and designed an Azure DevOps (ADO) CI/CD solution for network cloud deployments integrating features such as ADO Git repo, Wiki, and build/release pipelines completely from scratch. A key driver for this was automating the deployments for a global cloud firewall solution hosted across all landing zones.
       - layout: top-middle
         title: "Google Cloud Platform (GCP) - Partner Interconnect Deployment"
         # link: github.com/jksprattler/gcp-networking
@@ -183,7 +183,7 @@ content:
             icon: fab fa-github
             url: github.com/jksprattler/gcp-networking
         description: | # this will include new lines to allow paragraphs
-          Designed, developed and implemented Deployment Manager (DM) Jinja2 templates to automate the builds of multiple strategically located regional GCP Partner Interconnects including the networking infrastructure required for connectivity such as VPC's, subnets, cloud routers, etc. Developed automation strategies within GCP cloud networking including REST API calls and gcloud CLI scripting.          
+          Designed, developed and implemented Deployment Manager (DM) Jinja2 templates to automate the builds of multiple strategically located regional GCP Partner Interconnects including the networking infrastructure required for connectivity such as VPC's, subnets, cloud routers, etc. Developed automation strategies within GCP cloud networking including REST API calls and gcloud CLI scripting.
       - layout: top-middle
         title: "Cloud Connectivity Migrations - AWS, Azure"
         # link: github.com/jksprattler/aws-networking
@@ -191,7 +191,7 @@ content:
         additional_links:
           - title:  aws-case-study-thomson-reuters-migration
             icon: fas fa-globe
-            url: https://aws.amazon.com/solutions/case-studies/thomson-reuters-migration/       
+            url: https://aws.amazon.com/solutions/case-studies/thomson-reuters-migration/
           - title:  jksprattler/aws-networking
             icon: fab fa-github
             url: github.com/jksprattler/aws-networking
@@ -200,25 +200,13 @@ content:
             url: github.com/jksprattler/azure-networking
         description: | # this will include new lines to allow paragraphs
           Collaborated with several cross-functional teams to migrate 100+ public cloud accounts/subscriptions from prior Refinitiv, now LSEG, owned WAN service over to the new Thomson Reuters owned WAN service on AWS Direct Connect (DX) and Azure ExpressRoute (ER).
-      - layout: top-middle
-        title: "F5 BIG-IP Build & Implementation Lead (Cisco ACI Network)"
-        # link: github.com/jksprattler/f5-tmsh
-        # link_text: Project Website
-        additional_links:
-          - title:  jksprattler/f5-tmsh
-            icon: fab fa-github
-            url: github.com/jksprattler/f5-tmsh
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Orchestrated the builds and implementations of several F5 BIG-IP i-series appliances hosting vCMP virtual guests across multiple strategically located Data Center colocations via Greenfield Cisco ACI deployment. Developed automation processes for the F5 builds using tmsh/bash scripts, F5 Declarative Onboarding (DO) Model API calls, and Git source control.                       
 
   #- title: Skills
   #  layout: list # Type of content section (list/text)
   #  content:
   #    - layout: left
   #      #sub_title: ☁️ + ♾️
-  #      description: | # this will include new lines to allow paragraphs  
+  #      description: | # this will include new lines to allow paragraphs
   #          - Cloud: Amazon (AWS), Azure, Google (GCP), Oracle, DigitalOcean, Alibaba, Tencent
   #          - Containerization: Kubernetes (AKS, EKS, GKE), Docker
   #          - Configuration Management: Terraform, Ansible, Puppet, Nornir, AWS CloudFormation, Azure ARM, GCP Deployment Manager
@@ -230,7 +218,7 @@ content:
   #          - Firewalls: Check Point, Palo Alto, Cisco ASA, Linux iptables, Azure NSG, AWS NACL/Security Group, GCP VPC firewall rules
   #          - Network: F5 BIG-IP, Proxies (DNS/FTP/Squid/Socks), Infoblox, Cisco & Juniper Routers & Switches (Nexus NX-OS, IOS), BGP, HAproxy, Wireshark, TCP/IP, Zscaler, Silver Peak
   #          - Troubleshooting: incident management, analytical, critical thinking, calm under pressure, problem-solving, ownership, on-call, ITIL
-  #          - Project Planning: prioritization, organization, collaboration, delegation, scheduling, documentation, presenting, agile, scrum           
+  #          - Project Planning: prioritization, organization, collaboration, delegation, scheduling, documentation, presenting, agile, scrum
 
   - title: Interests
     layout: text
@@ -238,8 +226,8 @@ content:
       - Cooking
 
         ![salad](/images/noodle-salad.jpg)
-      - Gardening - This is my <a href="https://greenstalkgarden.com/" target="_blank" rel="noopener noreferrer">GreenStalk</a>: 
-      
+      - Gardening - This is my <a href="https://greenstalkgarden.com/" target="_blank" rel="noopener noreferrer">GreenStalk</a>:
+
         ![greenstalk](/images/greenstalk.gif)
       - Pugs! Meet Mr. Barry:
 
@@ -249,7 +237,7 @@ content:
 footer_show_references: true
 # references_title: Resume site was made using a Jekyll theme hosted on an AWS S3 bucket deployed using Github Actions
 references_title: |
-  Resume site created using a Jekyll theme hosted on an AWS S3 bucket served on a Cloudfront distribution with automated CI/CD deployment using Github Actions, please see <a href="https://jksprattler.github.io/jennas-runbooks/DevOps/CI-CD/jekyll-s3-actions.html" target="_blank" rel="noopener noreferrer">Jenna's Runbooks</a> for build details
+  Resume site created using a Jekyll theme hosted on an AWS S3 bucket served on an AWS CloudFront distribution with automated CI/CD deployment using GitHub Actions, please see <a href="https://blog.jennasrunbooks.com/jekyll-site-hosted-on-aws-s3-using-github-actions" target="_blank" rel="noopener noreferrer">Jenna's Runbooks</a> for build details
 
 # Build settings
 remote_theme: sproogen/resume-theme
