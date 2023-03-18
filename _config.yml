@@ -24,7 +24,7 @@ linkedin_username: jennasprattler
 additional_links:
  - title: Youtube link
    icon: fab fa-youtube
-   url: https://www.youtube.com/channel/UC00Co9dzh7sUjNYVjidG95w
+   url: https://www.youtube.com/@jennasrunbooks
  - title: jennas-runbooks
    icon: fas fa-globe
    url: https://blog.jennasrunbooks.com/
@@ -100,29 +100,6 @@ content:
             - Troubleshot and reproduced highly complex network and application issues using lab resources
             - Performed deep packet analysis using Wireshark, Fiddler, tcpdump and ssldump tools
             - Provided technical documentation, verbal explanation of Root Cause Analysis and solutions for impacted highly available production systems to both technical and non-technical audiences
-      - layout: left
-        title: TDS
-        link: https://www.suttle-straus.com/
-        sub_title: IT Systems Specialist
-        caption: March 2014 – July 2014
-        description: | # this will include new lines to allow paragraphs
-            - Performed Windows 7 and Microsoft Access 2010 upgrades
-            - Maintained hardware and software inventory using PowerShell, SCOM and SCCM reporting tools
-            - Administered Server 2012 Active Directory group policy and user accounts
-            - This role was with Suttle-Straus® a wholly owned subsidiary of Telephone and Data Systems, Inc. (TDS), recognized as a Fortune 500® 2016 company
-      - layout: left
-        link: https://www.tdsinc.com/
-        sub_title: IT Support Technician Intern
-        caption: December 2013 - March 2014
-        description: | # this will include new lines to allow paragraphs
-            - Troubleshot and repaired computer systems, software applications, hardware and peripherals
-      - layout: left
-        link: https://www.tdsinc.com/
-        sub_title: IT Security Intern
-        caption: March 2013 - November 2013
-        description: | # this will include new lines to allow paragraphs
-            - Led a Sarbanes–Oxley (SOX) control initiative as the team's Project Manager
-            - Redesigned the Active Directory group policy architecture for an SAP BI 4.0 upgrade
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
