@@ -41,7 +41,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Solution-oriented, results-driven hybrid network engineer transformed cloud engineer with over 10 years' experience in the IT industry. For the past 3.5+ years, I've held roles primarily working with enterprise-class multi-cloud vendor products, including Amazon (AWS), Microsoft Azure, and Google (GCP), providing design, development, and delivery of tasks. My specialties include hybrid cloud networking, security, devops, automation, and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies, including very large, complex enterprises, growing SaaS start-ups, and value-added resellers, making me a well-rounded engineer.
+  Prior hybrid network engineer transformed cloud engineer with over 10 years' experience in the IT industry. For the past 3.5+ years, I've held roles primarily working with enterprise-class multi-cloud vendor products, including Amazon (AWS), Microsoft Azure, and Google (GCP), providing design, development, and delivery of tasks. My specialties include hybrid cloud networking, security, devops, automation, and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies, including very large, complex enterprises, growing SaaS start-ups, and value-added resellers, making me a well-rounded engineer.
 
 content:
   - title: Experience # Title for the section
@@ -55,6 +55,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             - Architecting, building, monitoring and maintaining the microservices-based infrastructure and services that the Kentik SaaS platform runs on
             - Interacting with cloud product UI teams and backend software engineers to implement cloud infrastructure and verify user interface concepts
+            - Implemented Identity and Access Management best practices across Azure and AWS cloud environments including: lifecycle management solutions, access reviews, MFA enforcement, strict password policy enforcement, and more
             - Upgraded 300+ Linux-based images/agents across a global multi-cloud fleet using Ansible and Terraform for the Kentik Synthetics product
             - Analyzed cloud costs across 12+ major/minor cloud service providers capturing average monthly spend on a subset of product platforms and calculated potential annual savings in the tens of thousands of dollars by migrating to reserved/committed instances
             - Led a Vanta SOC 2 compliance audit across Kentik's multi-cloud infrastructure (AWS, Azure, GCP) implementing and standardizing monitoring, alerting, tagging, versioning and security gaps using bash scripts and Terraform
@@ -114,7 +115,6 @@ content:
         sub_title: IT Support Technician Intern
         caption: December 2013 - March 2014
         description: | # this will include new lines to allow paragraphs
-            - IT Service Management focused help desk utilizing the ITIL framework
             - Troubleshot and repaired computer systems, software applications, hardware and peripherals
       - layout: left
         link: https://www.tdsinc.com/
@@ -123,7 +123,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             - Led a Sarbanes–Oxley (SOX) control initiative as the team's Project Manager
             - Redesigned the Active Directory group policy architecture for an SAP BI 4.0 upgrade
-            - Executed Tenable Nessus security vulnerability scans for patch management reports
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
