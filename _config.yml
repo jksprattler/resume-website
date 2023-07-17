@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jenna Sprattler
-title: Cloud Engineer
+title: Cloud Engineer | SRE
 # email:
 # web: https://github.com/jksprattler
 # Blog: .github.io/jennas-runbooks
@@ -22,12 +22,13 @@ linkedin_username: jennasprattler
 
 # Additional icon links
 additional_links:
- - title: Youtube link
-   icon: fab fa-youtube
-   url: https://www.youtube.com/@jennasrunbooks
- - title: jennas-runbooks
-   icon: fas fa-globe
-   url: https://blog.jennasrunbooks.com/
+  - title: jennas-runbooks
+    icon: fa-brands fa-hashnode
+    url: https://blog.jennasrunbooks.com/
+  - title: Youtube link
+    icon: fab fa-youtube
+    url: https://www.youtube.com/@jennasrunbooks
+
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
@@ -41,7 +42,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Prior hybrid network engineer transformed cloud engineer with over 10 years' experience in the IT industry. For the past 3.5+ years, I've held roles primarily working with enterprise-class multi-cloud vendor products, including Amazon (AWS), Microsoft Azure, and Google (GCP), providing design, development, and delivery of tasks. My specialties include hybrid cloud networking, security, devops, automation, and microservices solutions. Throughout my career, I’ve had the opportunity to work with a variety of different companies, including very large, complex enterprises, growing SaaS start-ups, and value-added resellers, making me a well-rounded engineer.
+  Prior hybrid network engineer transformed cloud engineer with over 10 years' experience in the IT industry. For the past 4+ years, I've held roles primarily working with enterprise-class multi-cloud vendor products, including Amazon (AWS), Microsoft Azure, and Google (GCP), providing design, development, and delivery of tasks. My specialties include hybrid cloud networking, security, devops, automation, and microservices solutions. Throughout my career, I've had the opportunity to work with a variety of different companies, including very large, complex enterprises, growing SaaS start-ups, and value-added resellers, making me a well-rounded engineer.
 
 content:
   - title: Experience # Title for the section
@@ -50,15 +51,16 @@ content:
       - layout: left
         title: Kentik
         link: kentik.com
-        sub_title: Site Reliablity Engineer (Cloud)
+        sub_title: Senior Site Reliablity Engineer (Cloud)
         caption: September 2021 - Present
         description: | # this will include new lines to allow paragraphs
             - Architecting, building, monitoring and maintaining the microservices-based infrastructure and services that the Kentik SaaS platform runs on
             - Interacting with cloud product UI teams and backend software engineers to implement cloud infrastructure and verify user interface concepts
             - Implemented Identity and Access Management best practices across Azure and AWS cloud environments including: lifecycle management solutions, access reviews, MFA enforcement, strict password policy enforcement, and more
             - Upgraded 300+ Linux-based images/agents across a global multi-cloud fleet using Ansible and Terraform for the Kentik Synthetics product
-            - Analyzed cloud costs across 12+ major/minor cloud service providers capturing average monthly spend on a subset of product platforms and calculated potential annual savings in the tens of thousands of dollars by migrating to reserved/committed instances
-            - Led a Vanta SOC 2 compliance audit across Kentik's multi-cloud infrastructure (AWS, Azure, GCP) implementing and standardizing monitoring, alerting, tagging, versioning and security gaps using bash scripts and Terraform
+            - Actively promoting a FinOps culture by encouraging collaboration across engineering teams on solutions to monitor and optimize cloud costs
+            - Analyzed cloud costs across 12+ major/minor cloud service providers capturing average monthly spend on a subset of product platforms and proposed migrating to reserved/committed instances and resources where applicable for a potential 30% + in annual savings
+            - Led a Vanta SOC 2 compliance audit, overseeing the implementation and standardization of monitoring, alerting, tagging, versioning and security measures across AWS, Azure and GCP cloud infrastructures
       - layout: left
         title: Thomson Reuters
         link: thomsonreuters.com
@@ -74,16 +76,16 @@ content:
             - Configured monitors and alerts using cloud native tools and Datadog for bandwidth utilization, BGP and general circuit health
             - Designed and allocated IPAM in Infoblox for cloud address space
             - Published runbooks, procedures and design documentation
-            - Collaborated with 3rd party providers including WAN, Cloud and Firewall vendors on cloud and security designs and implementations 
+            - Collaborated with 3rd party providers including WAN, Cloud and Firewall vendors on cloud and security designs and implementations
       - layout: left
-#        title: Thomson Reuters
+        title: Thomson Reuters
         link: thomsonreuters.com
         sub_title: Senior Network & Security Engineer
-        caption: February 2017 – March 2021
+        caption: February 2017 - March 2021
         description: | # this will include new lines to allow paragraphs
             - Level II/III network incident engineer for the Global Enterprise LAN Network and Security Group supporting thousands of devices
-            - Team Cloud Networking SME: Produced documentation, diagrams, configuration management templates and bash/python automation scripts
-            - Team F5 BIG-IP SME: Led incident response, project planning, implementations, and mentored colleagues
+            - Team Cloud Networking Specialist: Produced documentation, diagrams, configuration management templates and bash/python automation scripts
+            - Team F5 BIG-IP Specialist: Led incident response, project planning, implementations, and mentored colleagues
             - Cloud Engineer: Selected to join the Azure Landing Zone Team as part of a talent rotation administering 100+ subscriptions; developed source code management skills and implemented subscription changes to production environments using scripts, API tools and CI/CD pipelines
             - Designed, implemented and supported Hybrid Cloud, SD-WAN, Load Balancers, Firewalls, Proxies, Routers and Switches
             - Reviewed capacity plans, evaluated performance, and created standards for the F5 Estate
@@ -93,7 +95,7 @@ content:
         title: Kudelski Security
         link: kudelskisecurity.com
         sub_title: Network Support Engineer II (F5)
-        caption: January 2015 – February 2017
+        caption: January 2015 - February 2017
         description: | # this will include new lines to allow paragraphs
             - F5 BIG-IP Support Engineer for Fortune 100/500 enterprise customers in the financial, healthcare, aerospace, nuclear and retail industries
             - Supported F5 Modules including: LTM, GTM, APM, ASM, AFM, vCMP, BIG-IQ, EM
@@ -107,7 +109,7 @@ content:
       - layout: top-middle
         title: Madison College
         # caption: years attended
-        sub_title: "AAS: IT – Network Security Specialist"
+        sub_title: "AAS: IT - Network Security Specialist"
         #quote: >
         #  Dean's List - Perfect Honors: Spring 2014, Fall 2013, Spring 2013
         #description: Collaborated in a team environment on the design, planning and implementation of a secure enterprise network representing the typical services offered by a business such as guest users, contractors and personal devices (BYOD).
@@ -124,9 +126,9 @@ content:
         #sub_title: ☁️ + ♾️
         description: | # this will include new lines to allow paragraphs
             - <a href="https://www.credly.com/badges/08449e71-c830-4362-8092-c6b5d90194d9/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Administrator Associate (AZ-104)</a>
-            - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect – Associate</a>; EXP 02/2023
+            - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect - Associate</a>; EXP 02/2023
             - <a href="https://www.youracclaim.com/badges/791ba496-d53c-4cb0-8873-f95d2027789c/public_url" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Fundamentals (AZ-900)</a>
-            - <a href="https://www.credly.com/badges/6c4dd0b7-0353-48e6-a0fd-74aee0778ae5/public_url" target="_blank" rel="noopener noreferrer">Juniper Networks Certified Associate – Junos (JNCIA-Junos)</a>
+            - <a href="https://www.credly.com/badges/6c4dd0b7-0353-48e6-a0fd-74aee0778ae5/public_url" target="_blank" rel="noopener noreferrer">Juniper Networks Certified Associate - Junos (JNCIA-Junos)</a>
             - <a href="https://www.credly.com/badges/29597788-48d9-4b8f-8f19-a77508af5226/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Local Traffic Manager (LTM)</a>; EXP 01/2021
             - <a href="https://www.credly.com/badges/bea35d72-25bc-459a-bde9-3670ff80f844/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, BIG-IP DNS (GTM)</a>; EXP 12/2019
             - <a href="https://www.credly.com/badges/d58d6baa-4933-4515-be80-a26dbf6531b3/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Application Security Manager (ASM)</a>; EXP 02/2019
@@ -148,7 +150,7 @@ content:
           - title: network-devops-transformation
             icon: fas fa-globe
             url: https://blog.jennasrunbooks.com/network-devops-transformation
-        description: | # this will include new lines to allow paragraphs 
+        description: | # this will include new lines to allow paragraphs
           Architected and designed an Azure DevOps (ADO) CI/CD solution for network cloud deployments integrating features such as ADO Git repo, Wiki, and build/release pipelines completely from scratch. A key driver for this was automating the deployments for a global cloud firewall solution hosted across all landing zones.
       - layout: top-middle
         title: "Google Cloud Platform (GCP) - Partner Interconnect Deployment"
@@ -161,7 +163,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Designed, developed and implemented Deployment Manager (DM) Jinja2 templates to automate the builds of multiple strategically located regional GCP Partner Interconnects including the networking infrastructure required for connectivity such as VPC's, subnets, cloud routers, etc. Developed automation strategies within GCP cloud networking including REST API calls and gcloud CLI scripting.
       - layout: top-middle
-        title: "Cloud Connectivity Migrations - AWS, Azure"
+        title: "Cloud Connectivity Builds & Migrations - AWS, Azure"
         # link: github.com/jksprattler/aws-networking
         # link_text: Project Website
         additional_links:
@@ -175,7 +177,7 @@ content:
             icon: fab fa-github
             url: github.com/jksprattler/azure-networking
         description: | # this will include new lines to allow paragraphs
-          Collaborated with several cross-functional teams to migrate 100+ public cloud accounts/subscriptions from prior Refinitiv, now LSEG, owned WAN service over to the new Thomson Reuters owned WAN service on AWS Direct Connect (DX) and Azure ExpressRoute (ER).
+          Collaborated with several cross-functional teams to migrate 100+ public cloud accounts/subscriptions from the prior Refinitiv, now LSEG, owned WAN service over to the new Thomson Reuters-owned WAN service on AWS Direct Connect (DX) and Azure ExpressRoute (ER). Contributed to the implementations of both AWS DX and Azure ER builds for Thomson Reuters.
 
   #- title: Skills
   #  layout: list # Type of content section (list/text)
@@ -201,7 +203,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Cooking
 
-        ![salad](/images/noodle-salad.jpg)
+        ![salad](/images/summer-salad.jpg)
       - Gardening - This is my <a href="https://greenstalkgarden.com/" target="_blank" rel="noopener noreferrer">GreenStalk</a>:
 
         ![greenstalk](/images/greenstalk.gif)
@@ -223,4 +225,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
