@@ -23,7 +23,7 @@ linkedin_username: jennasprattler
 # Additional icon links
 additional_links:
   - title: jennas-runbooks
-    icon: fas fa-globe
+    icon: fab fa-hashnode
     url: https://blog.jennasrunbooks.com/
   - title: Youtube link
     icon: fab fa-youtube
