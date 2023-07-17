@@ -23,7 +23,7 @@ linkedin_username: jennasprattler
 # Additional icon links
 additional_links:
   - title: jennas-runbooks
-    icon: fa-brands fa-hashnode
+    icon: fas fa-globe
     url: https://blog.jennasrunbooks.com/
   - title: Youtube link
     icon: fab fa-youtube
@@ -51,7 +51,7 @@ content:
       - layout: left
         title: Kentik
         link: kentik.com
-        sub_title: Senior Site Reliablity Engineer (Cloud)
+        sub_title: Senior Site Reliablity Engineer
         caption: September 2021 - Present
         description: | # this will include new lines to allow paragraphs
             - Architecting, building, monitoring and maintaining the microservices-based infrastructure and services that the Kentik SaaS platform runs on
