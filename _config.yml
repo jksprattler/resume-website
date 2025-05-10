@@ -41,7 +41,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Staff Engineer with 10+ years in IT operations, specializing in multi-cloud infrastructure, network, and security. Proficient in DevOps, automation, FinOps, hybrid networking, and microservices across AWS (including China), Azure (including China), GCP, OCI, and Alibaba Cloud. Proven experience in designing and implementing scalable, cost-effective, and low-maintenance multi-cloud solutions for mission-critical environments.
+  Experienced Staff Engineer with 10+ years in IT operations, specializing in multi-cloud infrastructure, network, and security. A strategic problem-solver proficient in DevOps, automation, FinOps, hybrid networking, and microservices across AWS (including China), Azure (including China), GCP, OCI, and Alibaba Cloud. Proven experience in designing and implementing scalable, cost-effective, and low-maintenance multi-cloud solutions for mission-critical environments, often leading key technical initiatives.
 
 content:
   - title: Experience # Title for the section
@@ -54,9 +54,10 @@ content:
         caption: September 2021 - Present
         description: | # this will include new lines to allow paragraphs
           - Architecting, building, monitoring, and maintaining the microservices-based infrastructure and services, deployed across multiple cloud providers, that drive the Kentik SaaS platform
-          - Reduced annual cloud costs by over $150K through optimization techniques, including compute instance and Kubernetes cluster resizing, commitment implementation, bandwidth reduction, and resource elimination across multiple cloud platforms
-          - Managing hundreds of dual-stack IPv4/IPv6 Linux-based systems across a global multi-cloud fleet using Terraform, Ansible, Kubernetes, Helm Charts, ELK, TIG and more for the <a href="https://www.kentik.com/product/global-agents/" target="_blank" rel="noopener noreferrer">Kentik Synthetics product</a>
+          - Reduced annual cloud costs by over $150K through optimization techniques, including compute instance and Kubernetes cluster resizing, commitments/reservations, bucket lifecycle rules, bandwidth reduction, and resource elimination across multiple cloud platforms
+          - Managing hundreds of dual-stack IPv4/IPv6 Linux-based systems distributed across a global multi-cloud fleet using Terraform, Ansible, Kubernetes, Helm Charts, ELK, TIG and more for the <a href="https://www.kentik.com/product/global-agents/" target="_blank" rel="noopener noreferrer">Kentik Synthetics product</a>
           - Designing, managing, and monitoring dozens of Kubernetes clusters and workloads across AWS, Azure, GCP and Lumen environments using Terraform modules, Kustomize templates and Helm charts
+          - Built and documented the infrastructure and security for Kentik's Cloud GTM co-sell product across AWS, Azure, and GCP, which also achieved AWS Partner status and successful Azure MACC commercial marketplace onboarding
           - Implemented Identity and Access Management best practices across Azure, AWS and GCP, including RBAC, lifecycle management, access reviews, MFA, and strong password policies; <a href="https://blog.jennasrunbooks.com/aws-lambda-function-iam-user-password-expiry-notice-ses-boto3-terraform" target="_blank" rel="noopener noreferrer">AWS Lambda IAM User Password Expiry</a>; <a href="https://registry.terraform.io/modules/jksprattler/users/azuread/latest" target="_blank" rel="noopener noreferrer">Entra ID Users Terraform Module</a>
           - Interacting with the cloud product UI team, solutions and backend engineers to implement cloud infrastructure, automation scripts and verify user interface concepts; <a href="https://github.com/kentik/config-snippets-cloud/pull/78" target="_blank" rel="noopener noreferrer">Azure VNet Flow Logs for Terraform Module</a>
           - Fostering a FinOps culture by facilitating collaborative solutions between engineering and finance for cloud cost monitoring and optimization
@@ -74,7 +75,7 @@ content:
           - Spearheaded the design and implementation of automated Azure DevOps (ADO) CI/CD pipelines for a stateful NGFW solution, enhancing security across all cloud landing zones
           - Collaborated with several cross-functional teams to migrate 100+ public cloud accounts/subscriptions from the Refinitiv, now LSEG, WAN service to the new Thomson Reuters WAN service on AWS Direct Connect (DX) and Azure ExpressRoute (ER); <a href="https://aws.amazon.com/solutions/case-studies/thomson-reuters-migration/" target="_blank" rel="noopener noreferrer">AWS Case Study</a>
           - Contributed to the implementations of both AWS DX and Azure ER builds for Thomson Reuters
-          - Ensured secure hybrid cloud connectivity by evaluating firewall rules, policies, and logs (Splunk), working directly with WAN, cloud, and firewall vendors to implement and maintain necessary security measures
+          - Ensured secure hybrid cloud connectivity by evaluating firewall rules, policies, and logs (Splunk), working with WAN, cloud, and firewall vendors to implement and maintain security measures
           - Presented technical demonstrations on cloud networking, security, DevOps, and automation to network teams; <a href="https://blog.jennasrunbooks.com/network-devops-transformation" target="_blank" rel="noopener noreferrer">Network DevOps Transformation</a>
           - Created and maintained cloud configuration management templates (ARM, CloudFormation, Deployment Manager) for standardized network deployments
           - Developed and maintained automation scripts (Bash/Python/tmsh) for cloud and on prem network device management
@@ -116,7 +117,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - <a href="https://learn.microsoft.com/api/credentials/share/en-us/JennaSprattler-4410/639F3BFCCCAF4FAA?sharingId=C83345E328010618" target="_blank" rel="noopener noreferrer">Microsoft Certified: Azure Administrator Associate (AZ-104)</a>; EXP 08/2024
           - <a href="https://www.credly.com/badges/6c4dd0b7-0353-48e6-a0fd-74aee0778ae5/public_url" target="_blank" rel="noopener noreferrer">Juniper Networks Certified Associate - Junos (JNCIA-Junos)</a>; EXP 12/2024
-          - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect - Associate</a>; EXP 02/2023
+          - <a href="https://www.youracclaim.com/badges/7bd53c29-7c10-40d6-8698-a6c3b791de41/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect - Associate (AWS-SAA)</a>; EXP 02/2023
           - <a href="https://www.credly.com/badges/29597788-48d9-4b8f-8f19-a77508af5226/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Local Traffic Manager (LTM)</a>; EXP 08/2021
           - <a href="https://www.credly.com/badges/bea35d72-25bc-459a-bde9-3670ff80f844/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, BIG-IP DNS (GTM)</a>; EXP 08/2021
           - <a href="https://www.credly.com/badges/d58d6baa-4933-4515-be80-a26dbf6531b3/public_url" target="_blank" rel="noopener noreferrer">F5-CTS, Application Security Manager (ASM)</a>; EXP 02/2019
@@ -202,7 +203,7 @@ content:
   - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Cooking
+      - Cooking or preparing a fresh salad:
 
         ![salad](/images/summer-salad.jpg)
       - Gardening - This is my <a href="https://greenstalkgarden.com/" target="_blank" rel="noopener noreferrer">GreenStalk</a>:
